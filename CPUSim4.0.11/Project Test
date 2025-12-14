@@ -1,0 +1,30 @@
+; Compute 18 + 12*3 + 13/5 - 20
+
+LOAD x1
+STORE sum
+
+LOAD x2
+MULTIPLY x3
+ADD sum
+STORE sum
+
+LOAD x4
+DIVIDE x5
+ADD sum
+STORE sum
+
+LOAD x6
+SUBTRACT sum
+STORE sum
+
+LOAD sum
+WRITE
+STOP
+
+sum: .data 0
+x1:  .data 18
+x2:  .data 12
+x3:  .data 3
+x4:  .data 13
+x5:  .data 5
+x6:  .data 20

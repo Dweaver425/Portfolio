@@ -1,0 +1,21 @@
+LD x1
+ST sum
+LD x2
+MUL x3
+ADD sum
+ST sum
+LD x4
+DIV x5
+ADD sum
+SUB x6
+ST sum
+WT
+STOP
+
+sum: .data 2 0
+x1:  .data 2 18
+x2:  .data 2 12
+x3:  .data 2 3
+x4:  .data 2 13
+x5:  .data 2 5
+x6:  .data 2 20

@@ -1,0 +1,23 @@
+load x1 ; acc=x1
+store sum ; sum=x1
+
+load x2 ; acc=x2
+multiply x3 ; acc=x2*x3
+add sum ; acc= x2*x3+x1
+store sum ; sum= x2*x3+x1
+
+load x4 ; acc=x4
+divide x5 ; acc=x4/x5
+add sum ; acc=x4/x5+x2*x3+x1
+
+subtract x6 ; acc=x4/x5+x2*x3+x1-x6
+store sum ; sum=x4/x5+x2*x3+x1-x6
+write
+stop
+sum: .data 2 0
+x1: .data 2 18
+x2: .data 2 12
+x3: .data 2 3
+x4: .data 2 13
+x5: .data 2 5
+x6: .data 2 20

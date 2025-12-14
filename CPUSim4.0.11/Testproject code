@@ -1,0 +1,21 @@
+LOAD x1
+STORE sum
+
+LOAD x2
+MULTIPLY x3
+ADD sum
+STORE sum
+
+LOAD x4
+DIVIDE x5
+ADD sum
+STORE sum
+
+LOAD x6
+SUBTRACT sum
+STORE sum
+
+LOAD sum
+WRITE
+STOP
+
