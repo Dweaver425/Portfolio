@@ -1,11 +1,11 @@
 <h1>💻 Coding Projects</h1>
 
 <p>
-  This repository contains programming assignments completed as part of
-  textbook-based projects, course labs, and larger team projects.
-  Many programs were implemented from specifications provided in course materials and textbooks,
-  while others were independently developed to practice or gain a deeper understanding
-  of specific concepts (such as data structures in the Book Lab).
+  This portfolio contains programming assignments that have been completed completed  
+  textbook based projects, course labs, and course team projects.
+  Many programs were implemented from directions provided in course materials and textbooks,
+  while others were developed to practice and gain a better understanding
+  of specific concepts such as data structures in the Book Lab.
   Together, these projects demonstrate my understanding of algorithms, data structures,
   parallel programming, and software engineering.
 </p>
@@ -43,7 +43,7 @@
     <strong>What’s Included:</strong>
     <ul>
       <li>
-        Final specification and design document (PDF) containing table of contents,
+        Final specification and design document PDF containing table of contents,
         use cases, UML diagrams, and code sections.
       </li>
     </ul>
