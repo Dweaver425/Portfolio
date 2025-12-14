@@ -1,7 +1,7 @@
 <h1>💻 Coding Projects</h1>
 
 <p>
-  This portfolio contains programming assignments that have been completed completed  
+  This portfolio contains programming assignments that have been completed   
   textbook based projects, course labs, and course team projects.
   Many programs were implemented from directions provided in course materials and textbooks,
   while others were developed to practice and gain a better understanding
